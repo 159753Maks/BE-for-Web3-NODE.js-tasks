@@ -1,0 +1,14 @@
+{
+  "name": "be-for-web3-node.js-tasks",
+  "version": "1.0.0",
+  "description": "Repositori for solving tasks from NodeJS cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
